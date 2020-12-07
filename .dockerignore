@@ -1,0 +1,11 @@
+# Diretórios
+.vscode/*
+.git/*
+bin/*
+obj/*
+out/*
+
+# Arquivos
+.gitignore
+.dockerignore
+Dockerfile
